@@ -6,11 +6,11 @@ import requests
 from time import sleep
 
 # ========= 配置信息 =========
-- USERNAME = "你的账户"
-- PASSWORD = "你的密码"
-- DOMAIN   = "证书域名"
-- KEY_PATH = "密钥路经"
-- CERT_PATH= "证书路经"
+USERNAME = "你的账户"
+PASSWORD = "你的密码"
+DOMAIN   = "证书域名"
+KEY_PATH = "密钥路经"
+CERT_PATH= "证书路经"
 # ===========================
 
 URL = {
